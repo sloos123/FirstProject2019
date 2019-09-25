@@ -12,5 +12,5 @@ ___
 
         + Szenen:                               DONE
         + Button:                               DONE
-        + Tastendruck zum Farbe ändern:         IN PROGRESS
-        + Canvas hovered raufzählen:            IDLE
+        + Tastendruck zum Farbe ändern:         DONE
+        + Canvas hovered raufzählen:            DONE
